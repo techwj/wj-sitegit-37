@@ -1,0 +1,59 @@
+{
+  "siteId": "creative-rice-recipes",
+  "generatedAt": "2026-06-02T15:35:09.547080",
+  "categories": [
+    "beginner-creative-rice-recipes",
+    "advanced-creative-rice-recipes",
+    "tips-creative-rice-recipes",
+    "history-creative-rice-recipes",
+    "trending-creative-rice-recipes",
+    "tutorials-creative-rice-recipes"
+  ],
+  "categoryData": [
+    {
+      "category_slug": "beginner-creative-rice-recipes",
+      "category_name": "Beginner Creative Rice Recipes"
+    },
+    {
+      "category_slug": "advanced-creative-rice-recipes",
+      "category_name": "Advanced Creative Rice Recipes"
+    },
+    {
+      "category_slug": "tips-creative-rice-recipes",
+      "category_name": "Creative Rice Recipes Tips"
+    },
+    {
+      "category_slug": "history-creative-rice-recipes",
+      "category_name": "Creative Rice Recipes History"
+    },
+    {
+      "category_slug": "trending-creative-rice-recipes",
+      "category_name": "Trending Creative Rice Recipes"
+    },
+    {
+      "category_slug": "tutorials-creative-rice-recipes",
+      "category_name": "Creative Rice Recipes Tutorials"
+    }
+  ],
+  "articleCount": 60,
+  "design": {
+    "site_id": "creative-rice-recipes",
+    "color_scheme": {
+      "name": "Purple Dream",
+      "primary": "#6b21a8",
+      "secondary": "#a855f7",
+      "accent": "#d8b4fe",
+      "background": "#faf5ff",
+      "text": "#581c87",
+      "light": "#f3e8ff"
+    },
+    "font": {
+      "family": "'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif",
+      "heading": "'Segoe UI'",
+      "body": "Roboto"
+    },
+    "layout": "topbar",
+    "site_title": "Creative Rice Recipes Central",
+    "articles_per_row": 1
+  }
+}
